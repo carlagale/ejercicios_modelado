@@ -1,0 +1,5 @@
+Genera un URDF con los joints y links necesarios pare representar las piezas que ves en la captura de abajo:
+
+    Asegúrate que la pieza horizontal azul permite rotación exclusivamente sobre su eje Z
+    Asegúrate que la pieza vertical azul permite rotación sobre alguno de sus ejes (el que quieras)
+    Añade slidebars para controlar ambos giros.
